@@ -1,2 +1,3 @@
-# atlanti-sicilia
-Atlanti dâ Sicilia
+# Atlanti Nicu dâ Sicilia
+
+Concesso in licenza a norma dell'EUPL 1.2.
