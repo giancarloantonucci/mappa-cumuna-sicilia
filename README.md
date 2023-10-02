@@ -1,5 +1,5 @@
 # Mappa dâ Sicilia
 
-Camora, cci su' sulu i cumuna (dati dû 2023). Ammacca stu lijami pi vìdiri â mappa: https://giancarloantonucci.github.io/mappa-sicilia/
+Camora, cci su' sulu i cumuna (dati dû 2023). Ammacca [cca](https://giancarloantonucci.github.io/mappa-sicilia/) pi vìdiri â mappa.
 
-Concesso in licenza a norma dell'EUPL 1.2.
+Cuncessu 'n licenza a norma di l'EUPL 1.2.
