@@ -1,4 +1,4 @@
-# Mappa dî Cumuna dâ Sicilia
+# Mappa dî cumuna dâ Sicilia
 
 Ammacca [cca](https://giancarloantonucci.github.io/mappa-sicilia/) pi vìdiri â mappa.
 
